@@ -33,8 +33,8 @@ The models are compared using:
 •	MAE: Measures absolute deviation from actual values.
 •	Overall Accuracy: DeepAR shows better performance with lower error rates compared to SARIMA.
 🛠 How to Run the Project
-1.	Clone the repository: 
-2.	git clone https://github.com/your-username/your-repo.git
+1. open my github profile
+2. 2. clone the  Comparative Demand Forecasting Models for Small Industrial Enterprises project
 3.	Install dependencies: 
 4.	pip install -r requirements.txt
 5.	Load and preprocess the dataset.
